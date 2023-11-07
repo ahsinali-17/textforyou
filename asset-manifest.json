@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textforyou/static/css/main.073c9b0a.css",
+    "main.js": "/textforyou/static/js/main.1ac9f029.js",
+    "static/js/787.e9aea88c.chunk.js": "/textforyou/static/js/787.e9aea88c.chunk.js",
+    "index.html": "/textforyou/index.html",
+    "main.073c9b0a.css.map": "/textforyou/static/css/main.073c9b0a.css.map",
+    "main.1ac9f029.js.map": "/textforyou/static/js/main.1ac9f029.js.map",
+    "787.e9aea88c.chunk.js.map": "/textforyou/static/js/787.e9aea88c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1ac9f029.js"
+  ]
+}
